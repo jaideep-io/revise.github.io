@@ -1,0 +1,8 @@
+body{background: #9AE0D5;
+color: #A10035;}
+a{font-weight: bolder;}
+hr{
+    /* border-style: none; */
+    border-color: white;
+    height: 0px;
+}
